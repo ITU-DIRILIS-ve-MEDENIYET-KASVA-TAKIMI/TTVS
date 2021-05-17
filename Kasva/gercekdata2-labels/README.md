@@ -1,6 +1,6 @@
-# Diriliş ve Medeniyet-KASVA Trafik İşaretleri Veri Seti-gercekdata1-labels
+# Diriliş ve Medeniyet-KASVA Trafik İşaretleri Veri Seti-gercekdata2-labels
 
-Gerçek veri-1 Klasörü:
+Gerçek veri-2 Klasörü:
 
 !:Trafik Lambasi sınıfı kırmızı,yeşil,sarı ışık ayırt etmeksizin etiketlenmiştir.
 
